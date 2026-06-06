@@ -32,6 +32,3 @@
 - 🌍 Open to remote opportunities
 - 📫 vinicius.ap@live.com
 
-##
-
-![snake animation](https://raw.githubusercontent.com/Viniciusap/Viniciusap/output/github-contribution-grid-snake-dark.svg)
